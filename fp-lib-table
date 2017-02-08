@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name CNC_VIA)(type KiCad)(uri "$(KIPRJMOD)\\CNC_VIA.pretty")(options "")(descr ""))
+)
