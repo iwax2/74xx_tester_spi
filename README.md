@@ -32,7 +32,7 @@ Arduinoシールド型（ちょっとでかい）で、0.5秒ぐらいでICを1�
 `tester_74xx_spi.ino`をArduino IDE (1.6.11で確認)で書き込んでください
 
 ## demo
-![demo](/img/74xx_tester_640x480.mp4)
+![demo](/img/demo_74xx_tester_spi.gif)
 
 ## Pictures
 ![全体写真](/img/over.jpg)  
