@@ -36,16 +36,21 @@ Arduinoシールド型（ちょっとでかい）で、0.5秒ぐらいでICを1�
 
 ## Pictures
 ![全体写真](/img/over.jpg)  
+
 全体写真
 
 ![Arduinoシールドとして利用できる](/img/shield.jpg)  
+
 Arduinoシールドとして利用できる
 
 ![OKの場合](/img/sample_ok.jpg)  
+
 テストした結果がOKの場合（壊れていないIC）
 
 ![NGの場合](/img/sample_ng.jpg) 
+
 テストした結果がNGの場合（壊れているIC）
 
 ![加工した基板の例](/img/kiban.jpg)  
+
 基板加工機(MITS AutoLab)で作成
